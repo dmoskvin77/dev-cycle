@@ -1,0 +1,4 @@
+.DS_Store
+.dev-cycle
+__pycache__/
+*.pyc
